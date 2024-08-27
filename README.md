@@ -1,5 +1,21 @@
 <p>1. Run php artisan serve in cmd</p>
 
+<p>2. Default page will show like below</p>
+
+![Screenshot1](assets/first_view.png)
+
+<p>2. Choose a time slot and click confirm</p>
+
+![Screenshot2](assets/second_view.png)
+
+<p>3. Schedule table is generated</p>
+
+![Screenshot3](assets/third_view.png)
+
+<p>4. Click to attend to update has attended to 'Yes'</p>
+
+![Screenshot4](assets/fourth_view.png)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
