@@ -1,3 +1,5 @@
+! create database db_learn in mysql before running command
+
 <p>1. Run php artisan serve in cmd</p>
 
 <p>2. Default page will show like below</p>
